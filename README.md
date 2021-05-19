@@ -9,4 +9,5 @@ Codon transcoder to obtain ACA-less sequence for Single-Protein-Production syste
 # Usage
 `python spp_transcoder.py [Input, fasta] [Output, fasta]`
 
-
+## Important
+The target DNA sequence must begin without shifting of codon-reading frame.
